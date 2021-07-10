@@ -1,3 +1,12 @@
+#SELECT       5      SELECT 
+#FROM         1      GIVE DATAFRAME
+#WHERE        2      FILTER
+#GROUP BY     3      GROUP_BY
+#HAVING BY    4      FILTER
+#ORDER BY     6      ARRANGE
+#LIMIT        7      HEAD
+
+
 #Remove everything from my environment
 rm(list = ls())
 
